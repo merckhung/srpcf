@@ -1,0 +1,9 @@
+xrHelp
+xrCpuInfo
+xrPciList
+xrRtcDateSet
+xrRtcDateShow
+xrRtcSet
+xrRtcShow
+xrDateShow
+xrTimeShow
